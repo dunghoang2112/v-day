@@ -17,7 +17,7 @@ const noMessages = [
     "Cho anh 1 cơ hội đi ạ... 😢",
     "Please??? 💔",
     "Đố em bắt được lun 😜",
-    "Bé ơi đồng ý đi ạaaaa 😭",
+    "Đừng màaaa 😭",
     "Đố em bắt được lun 😜"
 ]
 
